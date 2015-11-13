@@ -1,0 +1,54 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7600M Series (ID=0x6840)
+    Vendor:   ATI
+    VRAM:     2028 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: P:\Game Jams\New Unity Project\Stalker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading P:\Game Jams\New Unity Project\Stalker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: P:\Game Jams\New Unity Project\Stalker_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading P:\Game Jams\New Unity Project\Stalker_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: P:\Game Jams\New Unity Project\Stalker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading P:\Game Jams\New Unity Project\Stalker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: P:\Game Jams\New Unity Project\Stalker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading P:\Game Jams\New Unity Project\Stalker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: P:\Game Jams\New Unity Project\Stalker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading P:\Game Jams\New Unity Project\Stalker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: P:\Game Jams\New Unity Project\Stalker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading P:\Game Jams\New Unity Project\Stalker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: P:\Game Jams\New Unity Project\Stalker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading P:\Game Jams\New Unity Project\Stalker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: P:\Game Jams\New Unity Project\Stalker_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.078 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: P:\Game Jams\New Unity Project\Stalker_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 88 -> priority: 1 
+  Thread -> id: 3374 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - All passes removed
+UnloadTime: 6.396811 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 664.
+Total: 0.336821 ms (FindLiveObjects: 0.055048 ms CreateObjectMapping: 0.016327 ms MarkObjects: 0.244918 ms  DeleteObjects: 0.009796 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.860714 ms
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 229.
+Total: 0.467911 ms (FindLiveObjects: 0.036854 ms CreateObjectMapping: 0.022859 ms MarkObjects: 0.216461 ms  DeleteObjects: 0.190336 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - All passes removed
+UnloadTime: 0.422193 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 666.
+Total: 0.367611 ms (FindLiveObjects: 0.038253 ms CreateObjectMapping: 0.014461 ms MarkObjects: 0.303699 ms  DeleteObjects: 0.010263 ms)
+
